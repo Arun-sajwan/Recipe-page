@@ -1,0 +1,54 @@
+
+.div1{
+    display: flex;
+    justify-content:center;
+    padding: 50px;
+    margin-top: 10px;    
+}
+/* Card styling */
+.card {
+  width: 40rem;
+  margin-bottom: 20px;
+}
+
+.card1{
+    margin-bottom: 20px;
+}
+
+/* Card image padding */
+.card-img-top {
+  padding: 40px;
+  
+}
+
+/* Preparation time box */
+.prep-time {
+  background-color: blanchedalmond;
+  padding: 20px;
+}
+
+/* Nutrition table */
+.table-bottom-border {
+  border-collapse: collapse;
+  width: 100%;  
+}
+.table-bottom-border th,
+.table-bottom-border td {
+  border: none;
+  border-bottom: 2px solid #ccc; /* or your preferred color */
+  padding: 8px;
+}
+th{
+    color: brown;
+}
+td{
+    font-weight: bold;
+    color: brown;
+}
+/* footer */
+.bottom1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
