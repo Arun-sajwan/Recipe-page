@@ -6,6 +6,9 @@
     margin-top: 10px;    
 }
 /* Card styling */
+.card-title{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
 .card {
   width: 40rem;
   margin-bottom: 20px;
